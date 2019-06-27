@@ -1,0 +1,6 @@
+E:\visual studio 2013\Projects\PAlo Circulation\PAlo Circulation\bin\PAlo Circulation.dll.config
+E:\visual studio 2013\Projects\PAlo Circulation\PAlo Circulation\bin\PAlo Circulation.dll
+E:\visual studio 2013\Projects\PAlo Circulation\PAlo Circulation\bin\PAlo Circulation.pdb
+E:\visual studio 2013\Projects\PAlo Circulation\PAlo Circulation\obj\Debug\PAlo Circulation.csprojResolveAssemblyReference.cache
+E:\visual studio 2013\Projects\PAlo Circulation\PAlo Circulation\obj\Debug\PAlo Circulation.dll
+E:\visual studio 2013\Projects\PAlo Circulation\PAlo Circulation\obj\Debug\PAlo Circulation.pdb

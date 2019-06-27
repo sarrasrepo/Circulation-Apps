@@ -1,0 +1,3 @@
+Font Family: calibri
+Font Size: 68
+Text style: bold, white
